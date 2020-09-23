@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm run build`
 
-### `Table search and sort functionality I have used Datatables.net from jQuery`
+### `For Table search and sort functionality I have used Datatables.net from jQuery`
 
 ### `For making the graph, I have used Highcharts.js`
 
